@@ -1,0 +1,34 @@
+Check list for laboratory reports.
+
+Formato y forma:
+- [ ] Ortografia 
+- [x] Estilo
+- [x] Estructura
+- [x] Originalidad
+- [ ] Imagens, Tablas y Referencias: no se agregaron referencias bibliográficas
+- [ ] Estilo de referencias
+
+Contenido:
+- [x] Introducción
+- [x] Metodología
+- [x] Desarrollo
+- [x] Simulación
+- [x] Resultados 
+- [x] Conclusiones
+
+Comparación de los resultados:
+- [x] Scilab y Ecuaciones 
+- [x] Respuesta al escalón
+- [x] Modos de operación del sistema Wo=Wi, Wo><Wi
+- [x] Conclusiones
+
+Repositorio:
+- [ ] Carpetas
+- [ ] Código Scilab
+- [x] Código de Latex
+- [x] Entregado en tiempo
+
+
+Grade = 90
+
+
